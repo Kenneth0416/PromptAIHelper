@@ -1,8 +1,6 @@
-Here’s the English translation, preserving structure and intent, with light polishing for clarity and App Store compliance tone.
-
 Privacy Policy
 
-Prompt Helper Privacy Policy
+Prompt AI Helper Privacy Policy
 Effective date: September 8, 2025
 
 1. Overview
